@@ -1,0 +1,21 @@
+---
+title: "Watch. Code. Create."
+format: html
+---
+
+:::{.callout-note}
+**Referencing this presentation:**
+
+Bulusu, Kartik V. (2026, January). Week-0 Presentation: MAE 6291 Internet-of-Things for Engineers. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae6291-iot.github.io/spring2026/](https://gwu-mae6291-iot.github.io/spring2026/)
+
+:::
+
+::: {.callout-note appearance="simple"}
+**Course materials developed by Prof. Kartik Bulusu for MAE 1001-Fall 2025.**
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nm_DvXBW3Tc?si=LGsjS-bpiT8Y2E2O" title="Introduction to Raspberry Pi and Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gOCAHvFVlE?si=PihwuwWrfI7w2ggb" title="Programming Paradigms to Automate Tasks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEik8OPNtjU?si=mHdzOnK-noGSovdN" title="Deep Dive into Raspberry Pi With Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
