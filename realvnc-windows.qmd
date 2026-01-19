@@ -43,7 +43,8 @@ Open your web browser and go to the RealVNC website at [https://www.realvnc.com/
 
 ## Installation Steps
 
-### 0. Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
+<!-- ### 0. Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)** -->
+### 0. Download the installation file **[here](https://drive.google.com/drive/folders/1NUz8tcoU7oNyguMQtlGHYH3SA6JSc_Gr?usp=share_link)**
 
 
 ### 1. Install VNC Viewer

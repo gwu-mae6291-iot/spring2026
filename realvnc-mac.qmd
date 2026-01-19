@@ -43,7 +43,8 @@ Visit the RealVNC Viewer download page at [https://www.realvnc.com/en/connect/do
 
 ![Downlaod RealVNC](images/screenshots/realvnc-mac/screenshot-1.png) -->
 
-### 0. Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)**
+<!-- ### 0. Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)** -->
+### 0. Download the installation file **[here](https://drive.google.com/drive/folders/1NUz8tcoU7oNyguMQtlGHYH3SA6JSc_Gr?usp=share_link)**
 
 ### 1. Install RealVNC Viewer:
 

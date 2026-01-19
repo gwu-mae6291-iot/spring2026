@@ -68,7 +68,7 @@ None
 ## Workload
 This course will have 150 minutes of lecture time per week, that includes approximately 60-75 minutes of hands-on, microlab work. The course requires between 2-4 hours per week on average for homework assignments or project-based deliverables.
 
-## Textbook, hardware and other course material
+## Textbook, hardware, and other course material
 There is no textbook requirement for this course. All reading, hardware and course material will be provided by the instructor.
 
 <!-- <br><br>

@@ -63,7 +63,7 @@ The following installations are required on your personal computers to move forw
   - Follow installation instructions **[here](vpn-mac.qmd)**
 
 - **Step 1:** Install Real VNC Viewer for Mac OS 12+
-  - Donwload the installation file **[here](/downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)**
+  - Donwload the installation file **[here](https://drive.google.com/drive/folders/1NUz8tcoU7oNyguMQtlGHYH3SA6JSc_Gr?usp=share_link)**
   - Follow installation instructions **[here](realvnc-mac.qmd)**
 
 - **Step 2:** Install Thonny Python
@@ -102,7 +102,8 @@ The following installations are required on your personal computers to move forw
   - Follow installation instructions **[here](vpn-windows.qmd)**
 
 - **Step 1:** Install Real VNC Viewer for Windows 10+
-  - Donwload the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
+  <!-- - Donwload the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)** -->
+  - Donwload the installation file **[here](https://drive.google.com/drive/folders/1NUz8tcoU7oNyguMQtlGHYH3SA6JSc_Gr?usp=share_link)**
   - Follow installation instructions **[here](realvnc-windows.qmd)**
 
 - **Step 2:** Install Thonny Python
