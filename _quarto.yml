@@ -25,7 +25,7 @@ website:
         menu: 
           - href: Week0.qmd 
           - href: Launch_RPi_videos.qmd
-          # - href: Week1.qmd
+          - href: Week1.qmd
           # - href: Week2.qmd
       #     - href: Week2-Mohammad-PrattWhitney-Lecture.qmd
       #     - href: Week3.qmd
