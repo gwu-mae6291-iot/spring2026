@@ -10,7 +10,7 @@ Bulusu, Kartik V. (2026, January). Week-1 Presentation: MAE 6291 Internet-of-Thi
 :::
 
 ::: {.callout-note appearance="simple"}
-**Course materials developed by Prof. Kartik Bulusu for MAE 6291-Spring 2025.**
+**Course materials developed by Prof. Kartik Bulusu for MAE 6291-Spring 2026.**
 Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)
 :::
 ![](Notes/MAE6291_IoT_Week1.pdf){width="100%" height="800px"}
