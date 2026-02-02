@@ -8,7 +8,7 @@ Mohammad, Hadi (2026, January 28). Industrial Internet of Things (IIOT), MAE6291
 
 
 ::: {.callout-note appearance="simple"}
-**This presentation was made by Hadi Mohammad, Former Digital Technologies Director of Factory 4.0, Pratt & Whitney for MAE 6291-Spring 2025.**
+**This presentation was made by Hadi Mohammad, Former Digital Technologies Director of Factory 4.0, Pratt & Whitney for MAE 6291-Spring 2026.**
 :::
 ![](Notes/IIOT_GWU_presentation_02172024.pdf){width="100%" height="800px"}
 
