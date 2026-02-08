@@ -163,7 +163,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li style="color:black">Configuring the GPIO interface on your Raspberry Pi</li>
           <li style="color:black">In-class Raspberry Pi Lab (Blinking LEDs with MQTT)</li> 
           <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW1: Guest Lecture Summary [Download Template]</a></strong></li> <strong style="color:black">HW1 Assigned: 01/28/2026; HW1 Due: 02/04/2026</strong>
-          <li><strong><a href="Downloads/Midterm_Project_Proposal_MAE6291.docx" style="color:red;" target="_blank">Midterm Project Proposal [Download Template]</a></strong></li> <strong style="color:black">Midterm Proposal Assigned: 01/28/2026; Midterm Proposal Due: 02/11/2026</strong>
+          <li><strong><a href="Downloads/Midterm_Project_Proposal_MAE6291.docx" style="color:red;" target="_blank">Midterm Project Proposal [Download Template]</a></strong></li> <strong style="color:black">Midterm Proposal Assigned: 01/28/2026; Midterm Proposal Due: 02/13/2026</strong>
         </ul>
       </td>
     </tr>
@@ -202,9 +202,9 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <!-- <li style="color:black"><strong>Blinking LEDs on boot [Graded Lab Activity]</strong></li>   -->
           <!-- <li>In-class Raspberry Pi Lab (Ultrasound sensors)</li> -->
         <li><strong>In-class MQTT on Raspberry Pi  using Mosquitto MQTT [Graded Lab Activity]</strong></li>
-          <!-- <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW2.1: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW2.1 Assigned: 02/04/2026; HW2.1 Due: 02/11/2026</strong> -->
+        <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW2.1: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW2.1 Assigned: 02/04/2026; HW2.1 Due: 02/13/2026</strong>
 
-          <li><strong><a href="Downloads/Midterm_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">HW2.2: Midterm Project Proposal [Download Template]</a></strong></li> <strong>HW2.2 Assigned: 02/04/2026; HW2.2 Due: 02/11/2026</strong>
+          <li><strong><a href="Downloads/Midterm_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">HW2.2: Midterm Project Proposal [Download Template]</a></strong></li> <strong>HW2.2 Assigned: 02/04/2026; HW2.2 Due: 02/13/2026</strong>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           
           by <a href="/Lectures_Speakers/AnuragBhatnagar-bio-Feb2026.pdf" target="_blank">Anurag Bhatnagar</a>, CEO and Co-founder, ShiftAltCap - An investment banking firm based in New Delhi, India<br> 
 
-          <!-- **Slide deck:** <a href="Week3-AnuragBhatnagar-ShiftAltCap-Lecture.qmd" style="color:red;" target="_blank">Week3-AnuragBhatnagar-ShiftAltCap-Lecture</a> -->
+          **Slide deck:** <a href="Week3-AnuragBhatnagar-ShiftAltCap-Lecture.qmd" style="color:red;" target="_blank">Week3-AnuragBhatnagar-ShiftAltCap-Lecture</a>
       </td>
     </tr>    
 
