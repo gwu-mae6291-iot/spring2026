@@ -30,8 +30,8 @@ website:
           - href: Week2-Mohammad-PrattWhitney-Lecture.qmd
           - href: Week3.qmd
           - href: Week3-AnuragBhatnagar-ShiftAltCap-Lecture.qmd      
-      #     - href: Week4.qmd
-      #     - href: Week4-JitishKolanjery-Google-Lecture.qmd
+          - href: Week4.qmd
+          - href: Week4-MikePilone-NPR-Lecture.qmd
       #     - href: Week5.qmd
       #     - href: Week6.qmd  
       #     - href: Week6-ChowdaryYanamadala-ARM-Lecture.qmd  
