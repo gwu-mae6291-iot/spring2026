@@ -32,7 +32,8 @@ website:
           - href: Week3-AnuragBhatnagar-ShiftAltCap-Lecture.qmd      
           - href: Week4.qmd
           - href: Week4-MikePilone-NPR-Lecture.qmd
-      #     - href: Week5.qmd
+          - href: Week5.qmd
+          - href: Week5-YogeshChobe-Lecture.qmd          
       #     - href: Week6.qmd  
       #     - href: Week6-ChowdaryYanamadala-ARM-Lecture.qmd  
           - href: Midterm_Presentations_Spring2024.qmd

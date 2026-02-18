@@ -276,41 +276,39 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
 <!-- WEEK 5 -->
 <!-- =============== --> 
 
-<!-- <tr class="table-secondary">
+<tr class="table-secondary">
       <th scope="row">Week 5 [02/18/2026]</th>
       <td>
         <ul>
           <li>Recap: Layers in IoT - 3 layer model</li>
-          <li>Automating an email feature - Minimalist application layer in your IoT product design</li> 
+          <!-- <li>Automating an email feature - Minimalist application layer in your IoT product design</li>  -->
           <li> Discussion of Midterm Projects and setting course for updates and reporting</li>
           <li style="color:black"><a href="Week5.qmd" style="color:red;" target="_blank">Week-5 Notes</a></li>
         </ul>
       </td>
       <td>
         <ul>  
-          <li style="color:black"><strong>dweet an LED - Your first IoT program [Graded Lab Activity]</strong></li>
+          <li style="color:black"><strong>MQTT your LED - Your first IoT program [Graded Lab Activity]</strong></li>
           <li style="color:black"><strong>Raspberry Pi messaging with Python scripts [Graded Lab Activity]</strong></li> 
-          <li style="color:black"><strong>In-class Flask API development [Graded Lab Activity]</strong></li>      
+          <!-- <li style="color:black"><strong>In-class Flask API development [Graded Lab Activity]</strong></li>       -->
           <li style="color:black"><strong> HW3: Proximity sensing using Ultrasound sensor on boot</strong></li> 
           <li style="color:black"><strong>HW3 Assigned: 02/19/2025; HW3 Due: 02/26/2025</strong></li> 
-          <li style="color:black"><strong> HW4: Flask API output</strong></li> 
-          <li style="color:black"><strong>HW4 Assigned: 02/21/2025; HW4 Due: 02/26/2025</strong></li> 
+          <!-- <li style="color:black"><strong> HW4: Flask API output</strong></li>  -->
+          <li style="color:black"><strong>HW4 Assigned: 02/18/2026; HW4 Due: 02/24/2025</strong></li> 
         </ul>
       </td>
     </tr> -->
 
-<!-- <tr class="table-secondary">
+<tr class="table-secondary">
       <th scope="row"> Week 5 [02/18/2026]</th>
       <td colspan="2" style="text-align: center">
-          **Guest lecture:** *Connectivity in the Wild: Wireless Dynamic Routing for Field IoT* by Yogesh Chobe
+        **Guest lecture:** Connectivity in the Wild: Wireless Dynamic Routing for Field IoT 
+        by Yogesh Chobe, <br>Staff Software Engineer, Apple
+        <br><a href="https://www.linkedin.com/in/yogeshchobe/" target="_blank">Speaker's LinkedIn Profile</a>  
           
-          <a href="/Lectures_Speakers/YogeshChobe-bio-Feb2025.pdf" target="_blank"> Yogesh Chobe</a> 
-          <br>Sr. Software Engineer at Google
-          <br><a href="https://www.linkedin.com/in/yogeshchobe/" target="_blank">Speaker's LinkedIn Profile</a>  
-          
-          **Slide deck and recording:** <a href="Week5-YogeshChobe-Lecture.qmd" style="color:red;" target="_blank">Week5-YogeshChobe-Lecture</a></li>
+        **Slide deck:** <a href="Week5-YogeshChobe-Lecture.qmd" style="color:red;" target="_blank">Week5-YogeshChobe-Lecture</a></li>
       </td>
-    </tr> -->
+    </tr>
 
 <!-- =============== -->
 <!-- WEEK 6 -->
