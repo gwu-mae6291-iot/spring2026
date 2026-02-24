@@ -246,7 +246,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li style="color:black">Installing Python GPIO packages with pip in [venv]</li>
           <li style="color:black"><strong>Blinking LEDs on boot [Graded Lab Activity]</strong></li>  
           <li style="color:black"><strong>dweet an LED - Your first IoT program [Graded Lab Activity]</strong></li> 
-          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW3: Guest Lecture Summary [Download Template]</a></strong></li> <strong style="color:black">HW3 Assigned: 02/11/2026; HW3 Due: 02/18/2026</strong>
+          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW3: Guest Lecture Summary [Download Template]</a></strong></li> <strong style="color:black">HW3 Assigned: 02/11/2026; HW3 Due: 02/18/2026</strong></li>
           <!-- <li><strong>Due to snow-related university closure we will meet on Zoom and postpone all graded lab activities to next week<strong></li> -->
         </ul>
       </td>
@@ -291,10 +291,11 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li style="color:black"><strong>MQTT your LED - Your first IoT program [Graded Lab Activity]</strong></li>
           <li style="color:black"><strong>Raspberry Pi messaging with Python scripts [Graded Lab Activity]</strong></li> 
           <!-- <li style="color:black"><strong>In-class Flask API development [Graded Lab Activity]</strong></li>       -->
-          <li style="color:black"><strong> HW3: Proximity sensing using Ultrasound sensor on boot</strong></li> 
-          <li style="color:black"><strong>HW3 Assigned: 02/19/2025; HW3 Due: 02/26/2025</strong></li> 
+          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW4: Guest Lecture Summary [Download Template]</a></strong></li> <strong style="color:black">HW4 Assigned: 02/18/2026; HW4 Due: 02/25/2026</strong>
+          <li style="color:black"><strong> HW5: Proximity sensing using Ultrasound sensor on boot</strong></li> 
+          <li style="color:black"><strong>HW5 Assigned: 02/18/2026; HW5 In-class demos Due: 02/25/2026</strong></li> 
           <!-- <li style="color:black"><strong> HW4: Flask API output</strong></li>  -->
-          <li style="color:black"><strong>HW4 Assigned: 02/18/2026; HW4 Due: 02/24/2025</strong></li> 
+          <!-- <li style="color:black"><strong>HW4 Assigned: 02/18/2026; HW4 Due: 02/25/2026</strong></li>  -->
         </ul>
       </td>
     </tr> -->
