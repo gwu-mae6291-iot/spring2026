@@ -288,7 +288,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <td>
         <ul>  
           <li style="color:black"><strong>MQTT your LED - Your first IoT program [Graded Lab Activity]</strong></li>
-          <li style="color:black"><strong>Raspberry Pi messaging with Python scripts [Graded Lab Activity]</strong></li> 
+          <!-- <li style="color:black"><strong>Raspberry Pi messaging with Python scripts [Graded Lab Activity]</strong></li>  -->
           <!-- <li style="color:black"><strong>In-class Flask API development [Graded Lab Activity]</strong></li>       -->
           <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW4: Guest Lecture Summary [Download Template]</a></strong></li> <strong style="color:black">HW4 Assigned: 02/18/2026; HW4 Due: 02/25/2026</strong>
           <li style="color:black"><strong> HW5: Proximity sensing using Ultrasound sensor on boot</strong></li> 
@@ -334,8 +334,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       
       <td>
         <ul>
-          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW5: Guest Lecture Summary [Download Template]</a></strong></li> <strong style="color:black">HW5 Assigned: 02/26/2025; HW5 Due: 03/05/2025</strong>        
-          <!-- <li>Proxmity sensing using Thonny IDE</li>
+          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW5: Guest Lecture Summary [Download Template]</a></strong></li> <strong style="color:black">HW5 Assigned: 02/25/2026; HW5 Due: 03/04/2026</strong></li>
+          <li>Proxmity sensing using Thonny IDE</li>
           <li>Proxmity sensing using bash script</li>    
           <li style="color:black"><strong>Graded student demos: Proxmity sensing on boot [Graded Lab Activity]</strong></li>   
           <li style="color:black"><strong>Raspberry Pi messaging with Python scripts [Graded Lab Activity]</strong></li> 
