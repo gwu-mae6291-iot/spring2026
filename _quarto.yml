@@ -38,12 +38,12 @@ website:
           # - href: Week6-JitishKolanjery-Google-Lecture.qmd  
       #     - href: Week6-ChowdaryYanamadala-ARM-Lecture.qmd  
           - href: Midterm_Presentations_Spring2024.qmd
-      #     - href: Week8.qmd  
+          - href: Week8.qmd  
+          - href: Week8-ChrisRodley-SnapGroup-Lecture.qmd   
       #     - href: Week8-JakeWhitton-Demo-Lecture.qmd           
       # #     - href: Week6-Nuzum-Innovyz-Lecture.qmd
       #     - href: Week9.qmd    
-      #     - href: Week10.qmd    
-      #     - href: Week10-ChrisRodley-SnapGroup-Lecture.qmd            
+      #     - href: Week10.qmd             
       #     - href: Week11.qmd    
       #     - href: Week11-ThomasFarmer-UPenn-Lecture.qmd             
       # #   - href: Week10-Pottier-ARM-Lecture.qmd   
