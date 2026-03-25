@@ -1,13 +1,13 @@
 ---
-title: "Week-8: Prof. Thomas Farmer's Guest Lecture"
+title: "Week-9: Prof. Thomas Farmer's Guest Lecture"
 format html:
 ---
 **This presentation for internal viewing and referencing only. Redistribution of the presentation is not permitted.**
 
-Farmer, Thomas (2025, March 25). FPGAs…What are they, How do they work, What do we do with them today, and Where will they go tomorrow? MAE6291: Internet of Things for Engineers. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae6291-iot.github.io/spring2026/](https://gwu-mae6291-iot.github.io/spring2026/)
+Farmer, Thomas (2026, March 25). FPGAs…What are they, How do they work, What do we do with them today, and Where will they go tomorrow? MAE6291: Internet of Things for Engineers. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae6291-iot.github.io/spring2026/](https://gwu-mae6291-iot.github.io/spring2026/)
 
 ## Presentation slide deck
 ::: {.callout-note appearance="simple"}
-**This presentation was made by Prof. Thomas Farmer, University of Pennsylvania, for MAE 6291-Spring 2025.**
+**This presentation was made by Prof. Thomas Farmer, University of Pennsylvania, for MAE 6291-Spring 2026.**
 :::
 ![](Notes/FPGA_GWU_presentation_0409025.pdf){width="100%" height="800px"}
