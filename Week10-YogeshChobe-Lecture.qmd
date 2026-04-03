@@ -6,6 +6,12 @@ format html:
 
 Chobe, Yogesh (2026, April). From Silicon to Shell: The Journey of Bringing Up an IoT Platform, MAE6291: Internet of Things for Engineers. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae6291-iot.github.io/spring2026/](https://gwu-mae6291-iot.github.io/spring2026/)
 
+## Recording of the presentation 
+::: {.callout-note appearance="simple"}
+**This presentation was made by Yogesh Chobe, Staff Software Engineer, Apple, for MAE 6291-Spring 2026.**
+:::
+[Click here](https://drive.google.com/drive/folders/1_gl4iwfh2llHF4IUZ44Atr2x1-Lz-WyF?usp=sharing)
+
 <!-- ## Presentation slide deck
 ::: {.callout-note appearance="simple"}
 **This presentation was made by Yogesh Chobe, Staff Software Engineer, Apple, for MAE 6291-Spring 2026.**
