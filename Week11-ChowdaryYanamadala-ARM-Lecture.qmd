@@ -1,5 +1,5 @@
 ---
-title: "Week-6: Chowdary Yanamadala's Guest Lecture"
+title: "Week-11: Chowdary Yanamadala's Guest Lecture"
 format html:
 ---
 **This presentation for internal viewing and referencing only. Redistribution of the presentation is not permitted.**
@@ -12,12 +12,12 @@ Yanamadala, Chowdary (2025, February 26). IoT and Silicon Security: Dissecting a
 :::
 ![](Notes/SiliconSecurity_GWU_presentation_02262025.pdf){width="100%" height="800px"}
 
-## Video recording
+<!-- ## Video recording
 ::: {.callout-note appearance="simple"}
 **This link has the recording of the presentation was made by Chowdary Yanamadala, Technology Strategist, ARM, for MAE 6291-Spring 2025.**
 
 [IoT and Silicon Security: Dissecting a Real-Life IoT Attack](https://drive.google.com/file/d/1v9X5xHoW6JzX48SF7Vystus0M0p-6UaK/view?usp=share_link)
-:::
+::: -->
 
 
 

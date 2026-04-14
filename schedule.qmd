@@ -549,7 +549,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Discussion on Final Projects</li>
           <!-- <li>Understand key differences between Microprocessors and Microcontrollers</li> -->
           <li>Introduction to Docker: Images and Containers</li>  
-          <!-- <li style="color:black"><a href="Week11.qmd" style="color:red;" target="_blank">Week-11 Notes</a></li> -->
+          <li style="color:black"><a href="Week11.qmd" style="color:red;" target="_blank">Week-11 Notes</a></li>
         </ul>
       </td>
       <td>
