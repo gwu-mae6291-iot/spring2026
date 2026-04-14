@@ -578,24 +578,26 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
 <!-- WEEK 12 -->
 <!-- =============== -->
 
-<!-- <tr class="table-secondary">
+<tr class="table-secondary">
       <th scope="row">Week 12 [04/15/2026]</th>
       <td>
         <ul>
-          <li>Discussion on Final deliverbales and deadlines</li>
-          <li>UMQTT using ThingSpeak</li>  
-          <li style="color:black"><a href="Week12.qmd" style="color:red;" target="_blank">Week-12 Notes</a></li>
+          <li>Install Cloudflare localhost tunnelling software</li>
+          <li>Expose localhost to the internet by a tunnel</li>
+          <li>Discussion on Final deliverbales and deadlines</li>  
+          <!-- <li style="color:black"><a href="Week12.qmd" style="color:red;" target="_blank">Week-12 Notes</a></li> -->
         </ul>
       </td>
       <td>
         <ul>      
-          <li><strong>In-class lab set-up of ESP32 microcontroller with the Raspberry Pi 4B [Graded Lab Activity]</strong></li>
-          <li>Using SenseHat with MQTT </li>
-          <li>In-class Raspberry Pi Lab – ThingSpeak MQTT </li>
-          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW7: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW7 Assigned: 03/16/2025; HW5 Due: 03/24/2025</strong>
+          <li>In-class: Expose localhost run the Flask API code and create a localhost <strong>[Graded Lab Activity]</strong></li>
+          <li>In-class: Run the Flask API code and tunnel localhost using Cloudflare<strong>[Graded Lab Activity]</strong></li>
+          <!-- <li>Using SenseHat with MQTT </li> -->
+          <!-- <li>In-class Raspberry Pi Lab – ThingSpeak MQTT </li>
+          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW7: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW7 Assigned: 03/16/2025; HW5 Due: 03/24/2025</strong> -->
         </ul>
       </td>
-    </tr> -->
+    </tr>
 
 <!-- =============== -->
 <!-- WEEK 13 -->
