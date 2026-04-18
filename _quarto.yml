@@ -13,12 +13,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - text: "Getting Started"
-        menu: 
-          - href: getting_started.qmd
-            text: MUST READ Preliminaries
-          - href: install-editor.qmd
-            text: MUST DO Software Installations         
+      # - text: "Getting Started"
+        # menu: 
+        #   - href: getting_started.qmd
+        #     text: MUST READ Preliminaries
+        #   - href: install-editor.qmd
+        #     text: MUST DO Software Installations         
       - policies.qmd
       - schedule.qmd       
       - text: "Notes"
