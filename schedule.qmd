@@ -585,7 +585,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Install Cloudflare localhost tunnelling software</li>
           <li>Expose localhost to the internet by a tunnel</li>
           <li>Discussion on Final deliverbales and deadlines</li>  
-          <!-- <li style="color:black"><a href="Week12.qmd" style="color:red;" target="_blank">Week-12 Notes</a></li> -->
+          <li style="color:black"><a href="Week12.qmd" style="color:red;" target="_blank">Week-12 Notes</a></li>
         </ul>
       </td>
       <td>
